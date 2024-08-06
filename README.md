@@ -1,6 +1,6 @@
-# vueapp
+# VueApp for Job Listings
 
-This template should help get you started developing with Vue 3 in Vite.
+This is an implementation of ajob listing app using vue js for frontend.
 
 ## Recommended IDE Setup
 
