@@ -1,6 +1,6 @@
-# VueApp for Job Listings
+ # VueApp for Job Listings
 
-This is an implementation of ajob listing app using vue js for frontend.
+This is an implementation of a job listing web app using vue js for frontend.
 
 ## Recommended IDE Setup
 
