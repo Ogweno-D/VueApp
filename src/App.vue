@@ -1,8 +1,18 @@
 <script setup>
+    import  Navbar from '@/components/Navbar.vue';
+    import HeroSection from './components/Hero-Section.vue';
+    import HomeCards from './components/HomeCards.vue';
+    import JobListings from './components/JobListings.vue';
 </script>
 
 <template>
- <h1 class="font-bold text-4xl"> Vue Jobs</h1>
+
+    <Navbar />
+    <HeroSection />
+    <HomeCards />
+    <JobListings />
+
+
 </template>
 
 <style scoped>
