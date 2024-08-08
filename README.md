@@ -15,12 +15,6 @@ alt = "Home" />
    alt="Jobs"
 />
 
-### CRUD
-
-<img 
-    scr="public/VueCRUD.jpg"
-    alt="CRUD"
-    />
 
 ## Usage
 
