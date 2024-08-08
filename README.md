@@ -18,7 +18,7 @@ alt = "Home" />
 ### CRUD
 
 <img 
-    scr="public/VueCrud.jpg"
+    scr="public/VueCRUD.jpg"
     alt="CRUD"
     />
 
