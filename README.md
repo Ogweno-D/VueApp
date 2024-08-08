@@ -1,35 +1,61 @@
- # VueApp for Job Listings
+# VueApp for Job Listings
 
 This is an implementation of a job listing web app using vue js for frontend.
 
-## Recommended IDE Setup
+### Home
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+<img 
+src="public/VueHome.jpg"
+alt = "Home" />
 
-## Customize configuration
+### Jobs
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+<img 
+   src="public/VueJobs.jpg"
+   alt="Jobs"
+/>
 
-## Project Setup
+### CRUD
 
-```sh
+<img 
+    scr="public/VueCrud.jpg"
+    alt="CRUD"
+    />
+
+## Usage
+
+This project uses JSON-Server for a mock backend.
+
+### Install Dependencies
+
+```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Run JSON Server
 
-```sh
+The server will run on <http://localhost:5000>
+
+```bash
+npm run server
+```
+
+### Run Vite Frontend
+
+Vue will run on <http://localhost:3000>
+
+```bash
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Build for Production
 
-```sh
+```bash
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+### Preview Production Build
 
-```sh
-npm run lint
+```bash
+npm run preview
 ```
