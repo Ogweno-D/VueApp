@@ -85,7 +85,7 @@ const toast = useToast();
                 id="name"
                 name="name"
                 class="border rounded w-full py-2 px-3 mb-2"
-                placeholder="eg. Beautiful Apartment In Miami"
+                placeholder="eg. Senior Vue Developer"
                 required
               />
             </div>
